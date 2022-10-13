@@ -15,3 +15,7 @@ Next install `styled-components`
 ```bash
 npm install styled-components
 ```
+
+The starter code is in the `main` branch.
+
+The finished version from the first video is in the `styled` branch.
